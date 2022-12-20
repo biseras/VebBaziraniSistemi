@@ -24,7 +24,7 @@
     a foaf:Person ;
     foaf:name "Mario" ;
     foaf:mbox_sha1sum "d5755a9f670f5a6cf236be860d0c9c8e01e203ad" ;
-    rdfs:seeAlso <https://biseras.github.io/VebBaziraniSistemi/Mario>
+    rdfs:seeAlso <https://mariopetkovskii.github.io/rdf-foaf/foaf.ttl>
   ], [
     a foaf:Person ;
     foaf:name "Jovana" ;
